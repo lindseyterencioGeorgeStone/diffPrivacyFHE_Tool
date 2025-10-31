@@ -1,4 +1,4 @@
-```markdown
+
 # Differential Privacy FHE Tool: A Next-Gen Database Middleware
 
 The Differential Privacy FHE Tool serves as a powerful solution for enforcing "differential privacy" on databases, leveraging **Zama's Fully Homomorphic Encryption (FHE) technology**. This innovative middleware empowers data analysts to query databases while ensuring that individual privacy remains uncompromised by introducing a privacy layer that adds "noise" to the query results—keeping sensitive information hidden.
